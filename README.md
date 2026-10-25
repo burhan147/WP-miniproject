@@ -1,5 +1,9 @@
 # Peerly — College Event & Society Discovery Platform (MERN Stack)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-wp--miniproject.vercel.app-blue?style=for-the-badge&logo=vercel)](https://wp-miniproject.vercel.app/)
+
+> **🌐 Live Website:** [https://wp-miniproject.vercel.app/](https://wp-miniproject.vercel.app/)
+
 Peerly is a modern full-stack web application designed for college campuses to discover student societies, view campus reels and announcements, browse interactive event schedules, submit anonymous club reviews, and manage a campus lost-and-found board.
 
 ---
